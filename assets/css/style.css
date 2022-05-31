@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .logo{
   float: left;
   margin-top: -5px;
-  width: 50px;
+  width: 150px;
 }
 #header .logo h1 {
   font-size: 36px;
